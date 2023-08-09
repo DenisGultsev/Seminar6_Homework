@@ -7,7 +7,6 @@ class Program
         Console.WriteLine("Введите числа через пробел:");
         string input = Console.ReadLine();
         string[] numbers = input.Split(' ');
-
         int count = 0;
         foreach (string number in numbers)
         {

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GeekBrains\\SoftwareDeveloper\\Seminar6_Homework\\Task001_Counting_Numbers\\Task001_Counting_Numbers.csproj",
+      "projectUniqueName": "e:\\GeekBrains\\SoftwareDeveloper\\Seminar6_Homework\\Task001_Counting_Numbers\\Task001_Counting_Numbers.csproj",
       "projectName": "Task001_Counting_Numbers",
-      "projectPath": "E:\\GeekBrains\\SoftwareDeveloper\\Seminar6_Homework\\Task001_Counting_Numbers\\Task001_Counting_Numbers.csproj",
+      "projectPath": "e:\\GeekBrains\\SoftwareDeveloper\\Seminar6_Homework\\Task001_Counting_Numbers\\Task001_Counting_Numbers.csproj",
       "packagesPath": "C:\\Users\\Гульцев Денис\\.nuget\\packages\\",
-      "outputPath": "E:\\GeekBrains\\SoftwareDeveloper\\Seminar6_Homework\\Task001_Counting_Numbers\\obj\\",
+      "outputPath": "e:\\GeekBrains\\SoftwareDeveloper\\Seminar6_Homework\\Task001_Counting_Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Гульцев Денис\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
