@@ -11,10 +11,13 @@ class Program
         int count = 0;
         foreach (string number in numbers)
         {
-            int num = Int32.Parse(number.Trim());
-            if (num > 0)
+            int num;
+            if (Int32.TryParse(number.Trim(), out num)) // fixed error: use TryParse instead of Parse to handle invalid input
             {
-                count++;
+                if (num > 0)
+                {
+                    count++;
+                }
             }
         }
 
