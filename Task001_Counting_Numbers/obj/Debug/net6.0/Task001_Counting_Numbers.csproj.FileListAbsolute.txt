@@ -1,0 +1,15 @@
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task001_Counting_Numbers\bin\Debug\net6.0\Task001_Counting_Numbers.exe
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task001_Counting_Numbers\bin\Debug\net6.0\Task001_Counting_Numbers.deps.json
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task001_Counting_Numbers\bin\Debug\net6.0\Task001_Counting_Numbers.runtimeconfig.json
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task001_Counting_Numbers\bin\Debug\net6.0\Task001_Counting_Numbers.dll
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task001_Counting_Numbers\bin\Debug\net6.0\Task001_Counting_Numbers.pdb
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task001_Counting_Numbers\obj\Debug\net6.0\Task001_Counting_Numbers.csproj.AssemblyReference.cache
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task001_Counting_Numbers\obj\Debug\net6.0\Task001_Counting_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task001_Counting_Numbers\obj\Debug\net6.0\Task001_Counting_Numbers.AssemblyInfoInputs.cache
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task001_Counting_Numbers\obj\Debug\net6.0\Task001_Counting_Numbers.AssemblyInfo.cs
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task001_Counting_Numbers\obj\Debug\net6.0\Task001_Counting_Numbers.csproj.CoreCompileInputs.cache
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task001_Counting_Numbers\obj\Debug\net6.0\Task001_Counting_Numbers.dll
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task001_Counting_Numbers\obj\Debug\net6.0\refint\Task001_Counting_Numbers.dll
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task001_Counting_Numbers\obj\Debug\net6.0\Task001_Counting_Numbers.pdb
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task001_Counting_Numbers\obj\Debug\net6.0\Task001_Counting_Numbers.genruntimeconfig.cache
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task001_Counting_Numbers\obj\Debug\net6.0\ref\Task001_Counting_Numbers.dll
