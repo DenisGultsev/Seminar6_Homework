@@ -1,0 +1,15 @@
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task002_IntersectionPoint\bin\Debug\net6.0\Task002_IntersectionPoint.exe
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task002_IntersectionPoint\bin\Debug\net6.0\Task002_IntersectionPoint.deps.json
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task002_IntersectionPoint\bin\Debug\net6.0\Task002_IntersectionPoint.runtimeconfig.json
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task002_IntersectionPoint\bin\Debug\net6.0\Task002_IntersectionPoint.dll
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task002_IntersectionPoint\bin\Debug\net6.0\Task002_IntersectionPoint.pdb
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task002_IntersectionPoint\obj\Debug\net6.0\Task002_IntersectionPoint.csproj.AssemblyReference.cache
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task002_IntersectionPoint\obj\Debug\net6.0\Task002_IntersectionPoint.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task002_IntersectionPoint\obj\Debug\net6.0\Task002_IntersectionPoint.AssemblyInfoInputs.cache
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task002_IntersectionPoint\obj\Debug\net6.0\Task002_IntersectionPoint.AssemblyInfo.cs
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task002_IntersectionPoint\obj\Debug\net6.0\Task002_IntersectionPoint.csproj.CoreCompileInputs.cache
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task002_IntersectionPoint\obj\Debug\net6.0\Task002_IntersectionPoint.dll
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task002_IntersectionPoint\obj\Debug\net6.0\refint\Task002_IntersectionPoint.dll
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task002_IntersectionPoint\obj\Debug\net6.0\Task002_IntersectionPoint.pdb
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task002_IntersectionPoint\obj\Debug\net6.0\Task002_IntersectionPoint.genruntimeconfig.cache
+E:\GeekBrains\SoftwareDeveloper\Seminar6_Homework\Task002_IntersectionPoint\obj\Debug\net6.0\ref\Task002_IntersectionPoint.dll
